@@ -1,0 +1,50 @@
+#indice{
+    float: left;
+    width: 15%;
+    height: 340px;
+    border: solid;
+    padding: 1%;
+    margin: 1%;
+    background-color: yellow;
+}
+#imagen{
+    float: right;
+    width: 80%;
+    height: 400px;
+}
+#primerparr{
+    clear: left;
+}
+table{
+    background-color: aquamarine;
+    border-color: blue;
+    color: grey;
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h2{
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    font-size: large;
+}
+a:hover{
+    color: red;
+    font-size: xx-large;
+}
+.lista{
+    font-style: oblique;
+}
+body{
+    background-color: antiquewhite;
+}
+#formul{
+    border: solid;
+    padding: 20px;
+    color: yellow;
+    background-color: brown;
+}
